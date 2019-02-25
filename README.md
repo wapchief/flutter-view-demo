@@ -7,5 +7,8 @@ A new Flutter application.
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
+## 文档、资料
+https://flutterawesome.com/dashboard-concept-made-with-flutter/
+
 #### Toast提示
 https://github.com/PonnamKarthik/FlutterToast
